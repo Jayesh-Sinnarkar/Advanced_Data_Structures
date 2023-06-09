@@ -1,0 +1,42 @@
+[Some links to find problems for practice]
+- JAVA Practice Problems
+https://www.hackerrank.com/domains/java
+
+- DS - Problem Solving
+https://www.hackerrank.com/domains/data-structures
+
+- Algorithms
+https://www.hackerrank.com/domains/algorithms
+
+
+
+[Array Practice Problems]
+- 26. Remove Duplicates from Sorted Array
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
+- 27. Remove Element
+https://leetcode.com/problems/remove-element/
+
+- 66. Plus One
+https://leetcode.com/problems/plus-one/
+
+- 118. Pascal's Triangle
+https://leetcode.com/problems/pascals-triangle/
+
+- 217. Contains Duplicate
+https://leetcode.com/problems/contains-duplicate/
+
+- 268. Missing Number
+https://leetcode.com/problems/missing-number/
+
+- 283. Move Zeroes
+https://leetcode.com/problems/move-zeroes/
+
+- 414. Third Maximum Number
+https://leetcode.com/problems/third-maximum-number/
+
+- 485. Max Consecutive Ones
+https://leetcode.com/problems/max-consecutive-ones/
+
+- 674. Longest Continuous Increasing Subsequence
+https://leetcode.com/problems/longest-continuous-increasing-subsequence/
