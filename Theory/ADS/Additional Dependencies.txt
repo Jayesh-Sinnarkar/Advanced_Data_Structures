@@ -10,3 +10,5 @@
 			<artifactId>modelmapper</artifactId>
 			<version>3.0.0</version>
 		</dependency>
+
+http://localhost:8080/swagger-ui/index.html
