@@ -73,6 +73,17 @@ public class SinglyLinkedList {
 		}
 		head=head.next;
 	}
+	
+	public void delAtPos(int pos)
+	{
+		Node temp=null, trav = head;
+		for(int i=1;i<pos;i++)
+		{
+			temp = trav;
+			trav=trav.next;
+		}
+		temp.next=trav.next;
+	}
 
 	public void display() {
 		Node trav = head;

@@ -13,7 +13,7 @@ public class SinglyLinkedListTester {
 		{
 			while(!exit) {
 				
-			System.out.println("1. Add First \n2. Add Last \n3.Display \n4.Exit");
+			System.out.println("1. Add First \n2. Add Last \n3.Display \n4.Exit \n5.Add At Pos \n6.Delete At First \7.Delete At Pos");
 			choice = sc.nextInt();
 			
 			switch(choice)
