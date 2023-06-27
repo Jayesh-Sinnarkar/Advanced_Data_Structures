@@ -15,6 +15,7 @@ public class Tester {
 		q.enQueue(55);
 		q.print();
 		q.enQueue(65);
+		q.print();
 		
 		}catch(Exception e)
 		{

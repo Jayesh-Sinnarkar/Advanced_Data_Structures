@@ -74,15 +74,35 @@ public class SinglyLinkedList {
 		head=head.next;
 	}
 	
-	public void delAtPos(int pos)
+	public void delAtPos(int pos) throws Exception
 	{
-		Node temp=null, trav = head;
+		if(pos==1)
+			delAtFirst();
+		if(head==null||pos<1)
+			throw new Exception("list is empty or position is less than one");
+		
+		Node temp=null,trav=head;
 		for(int i=1;i<pos;i++)
 		{
-			temp = trav;
+			if(trav==null)
+				throw new Exception("Invalid Position");
+			temp=trav;
 			trav=trav.next;
 		}
 		temp.next=trav.next;
+	}
+	
+	public void delAtLast() throws Exception
+	{
+		Node temp=null,trav=head;
+		if(head==null)
+			throw new Exception("list is empty");
+		while(trav.next!=null)
+		{
+			temp=trav;
+			trav=trav.next;
+		}
+		temp.next=null;
 	}
 
 	public void display() {
