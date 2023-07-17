@@ -42,7 +42,7 @@ public class QueueUsingArrays {
 		rear = (rear+1)%size;
 		arr[rear]= val;
 		
-//		display();
+	//display();
 	}
 	
 	public void pop() throws Exception {
@@ -54,7 +54,7 @@ public class QueueUsingArrays {
 			front = -1;
 			rear = -1;
 		}
-//		display();		
+	//display();		
 	}
 	
 	public int peek() throws Exception
@@ -87,9 +87,6 @@ public class QueueUsingArrays {
 				temp++;
 			}
 		}
-		System.out.println();
-		
+		System.out.println();	
 	}
-	
-
 }
