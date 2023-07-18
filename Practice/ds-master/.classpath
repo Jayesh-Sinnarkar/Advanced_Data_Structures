@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="day01/searching/src"/>
+	<classpathentry kind="src" path="day01/sorting/src"/>
+	<classpathentry kind="src" path="day02/singlylist/src"/>
+	<classpathentry kind="src" path="day02/sorting/src"/>
+	<classpathentry kind="src" path="day03/doublylist/src"/>
+	<classpathentry kind="src" path="day03/singlycircularlist/src"/>
+	<classpathentry kind="src" path="day03/singlylist/src"/>
+	<classpathentry kind="src" path="day04/expression/src"/>
+	<classpathentry kind="src" path="day04/linkedlist/src"/>
+	<classpathentry kind="src" path="day04/stack/src"/>
+	<classpathentry kind="src" path="day05/circularqueue/src"/>
+	<classpathentry kind="src" path="day05/expression/src"/>
+	<classpathentry kind="src" path="day05/linearqueue/src"/>
+	<classpathentry kind="src" path="day05/priorityqueue/src"/>
+	<classpathentry kind="src" path="day06/bstree/src"/>
+	<classpathentry kind="src" path="day06/hashtable/src"/>
+	<classpathentry kind="src" path="day07/bstree/src"/>
+	<classpathentry kind="src" path="day08/heapsort/src"/>
+	<classpathentry kind="src" path="day08/mergesort/src"/>
+	<classpathentry kind="src" path="day09/graph_adjlist_nonwt/src"/>
+	<classpathentry kind="src" path="day09/graph_adjlist_wt/src"/>
+	<classpathentry kind="src" path="day09/graph_adjmat_nonwt/src"/>
+	<classpathentry kind="src" path="day09/graph_adjmat_wt/src"/>
+	<classpathentry kind="src" path="day09/graph_bfs_dfs/src"/>
+	<classpathentry kind="src" path="day09/kruskal_mst/src"/>
+	<classpathentry kind="src" path="day09/quicksort/src"/>
+	<classpathentry kind="src" path="day10/bellamanford/src"/>
+	<classpathentry kind="src" path="day10/dijkstra_spt/src"/>
+	<classpathentry kind="src" path="day10/fibonacci/src"/>
+	<classpathentry kind="src" path="day10/prims_mst/src"/>
+	<classpathentry kind="src" path="day10/warshallfloyd/src"/>
+	<classpathentry kind="output" path="day01/searching/bin"/>
+</classpath>

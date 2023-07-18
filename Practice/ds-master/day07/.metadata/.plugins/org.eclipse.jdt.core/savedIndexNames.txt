@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Data Structure and Algo-Nilesh Ghule\ds-master (1)\ds-master\day07\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+338553139.index
+2565356412.index
