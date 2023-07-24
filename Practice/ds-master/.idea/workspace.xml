@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0875dfb7-6440-491c-9500-40457e809d97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../StackAndQueueRevision/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackAndQueueRevision/StackAndQueueRevision.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/searching/bin/searching/SearchingMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/day01/searching/bin/searching/SearchingMain.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,13 +17,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/jayes/OneDrive/Documents/Advanced_Data_Structures/Practice/ds-master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jayes/OneDrive/Documents/Advanced_Data_Structures/Practice/ds-master&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
